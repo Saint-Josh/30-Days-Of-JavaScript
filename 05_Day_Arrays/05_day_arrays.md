@@ -176,7 +176,7 @@ let firstFruit = fruits[0] // we are accessing the first item using its index
 
 console.log(firstFruit) // banana
 
-secondFruit = fruits[1]
+let secondFruit = fruits[1]
 console.log(secondFruit) // orange
 
 let lastFruit = fruits[3]
